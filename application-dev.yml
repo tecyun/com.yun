@@ -1,0 +1,4 @@
+mysqldb:
+  datasource:
+    username: test
+    password: test
